@@ -30,4 +30,5 @@ Follow these steps to set up the project locally:
 6.   ```bash
       cd src/app
 
-8. ng serve
+8.       ```bash
+         ng serve
