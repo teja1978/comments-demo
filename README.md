@@ -20,10 +20,10 @@ Follow these steps to set up the project locally:
 
    ```bash
    git clone https://github.com/teja1978/comments-demo.git
-
+   
 2.  ```bash
       cd comments-demo
-       
+    
 3.   ```bash
       cd interactive-comments 
 
