@@ -21,10 +21,13 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/teja1978/comments-demo.git
 
-2. cd interactive-comments 
+2.   ```bash
+      cd interactive-comments 
 
-3. npm i
+4.   ```bash
+      npm i
 
-4. cd src/app
+6.   ```bash
+      cd src/app
 
-5. ng serve
+8. ng serve
